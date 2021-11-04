@@ -1,0 +1,16 @@
+body {
+  background-image: url('images/background.png');
+}
+
+h1{
+	color: purple;
+}
+
+p{
+	color: red;
+}
+
+.cal{
+	width: 25%;
+	height: 25%;
+}
